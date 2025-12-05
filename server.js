@@ -27,5 +27,5 @@ app.use("/api/accounts", require("./routes/accountRoutes"));
 app.use("/api/publishers", publisherRoutes);
 app.use("/api/users", require("./routes/userRoutes"));
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`Server chạy tại http://localhost:${PORT}`));
