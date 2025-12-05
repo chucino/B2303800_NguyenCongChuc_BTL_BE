@@ -1,0 +1,502 @@
+[
+  {
+    "maSach": 1001,
+    "tenSach": "Dế Mèn Phiêu Lưu Ký",
+    "donGia": 65000,
+    "soQuyen": 6,
+    "namXuatBan": 2015,
+    "tacGia": "Tô Hoài",
+    "maNXB": 1,
+    "hinhAnh": "https://bavi.edu.vn/upload/21768/fck/files/150800018_3868030666550251_8375198552020103317_n.jpg"
+  },
+  {
+    "maSach": 1002,
+    "tenSach": "Tắt Đèn",
+    "donGia": 70000,
+    "soQuyen": 5,
+    "namXuatBan": 2018,
+    "tacGia": "Ngô Tất Tố",
+    "maNXB": 17,
+    "hinhAnh": "https://product.hstatic.net/1000237375/product/bia_truoc_08_b4497226ce524fd79a1d81b9086b99a9_master.jpg"
+  },
+  {
+    "maSach": 1003,
+    "tenSach": "Lão Hạc",
+    "donGia": 60000,
+    "soQuyen": 4,
+    "namXuatBan": 2016,
+    "tacGia": "Nam Cao",
+    "maNXB": 17,
+    "hinhAnh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9kadZQLDa6O9OaFa_sZ4eIwIY4PVStZqFAajwDJ2O-0dZjwd06w3qw7TgbhwuSJhxv3oR8rIGqfig6Y0lOhijYIC6BVwYvZsUjcxwMQ&s=10"
+  },
+  {
+    "maSach": 1004,
+    "tenSach": "Vợ Nhặt",
+    "donGia": 68000,
+    "soQuyen": 6,
+    "namXuatBan": 2017,
+    "tacGia": "Kim Lân",
+    "maNXB": 12,
+    "hinhAnh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3T2btXOjeucAtXPsZzTgtl4fjcPt4FR8tNYnn6lBrdwaEaxP6pPUD0Hi42Is26GGfNIyt_rYcONq5zoua_yZCSdqGlDnlKIAjWmqaQ&s=10"
+  },
+  {
+    "maSach": 1005,
+    "tenSach": "Chí Phèo",
+    "donGia": 62000,
+    "soQuyen": 5,
+    "namXuatBan": 2019,
+    "tacGia": "Nam Cao",
+    "maNXB": 17,
+    "hinhAnh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQTgYrGFYUbmOhh3gMeL--UnDex4TNX89KiPzKyOE9wUpNqgetxkBP0P6LW3_o09JsExfEkATVdSKfa1XemvAD6E2B6vOjh16txnaMz6c&s=10"
+  },
+  {
+    "maSach": 1006,
+    "tenSach": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+    "donGia": 85000,
+    "soQuyen": 7,
+    "namXuatBan": 2020,
+    "tacGia": "Nguyễn Nhật Ánh",
+    "maNXB": 1,
+    "hinhAnh": "https://upload.wikimedia.org/wikipedia/vi/thumb/3/3d/T%C3%B4i_th%E1%BA%A5y_hoa_v%C3%A0ng_tr%C3%AAn_c%E1%BB%8F_xanh.jpg/250px-T%C3%B4i_th%E1%BA%A5y_hoa_v%C3%A0ng_tr%C3%AAn_c%E1%BB%8F_xanh.jpg"
+  },
+  {
+    "maSach": 1007,
+    "tenSach": "Mắt Biếc",
+    "donGia": 90000,
+    "soQuyen": 6,
+    "namXuatBan": 2021,
+    "tacGia": "Nguyễn Nhật Ánh",
+    "maNXB": 1,
+    "hinhAnh": "https://bookfun.vn/wp-content/uploads/2024/11/tom-tat-review-cuon-sach-mat-biec-cua-nguyen-nhat-anh.jpg.webp"
+  },
+  {
+    "maSach": 1008,
+    "tenSach": "Những Ngày Thơ Ấu",
+    "donGia": 76000,
+    "soQuyen": 4,
+    "namXuatBan": 2017,
+    "tacGia": "Nguyên Hồng",
+    "maNXB": 12,
+    "hinhAnh": "https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-nhung-ngay-tho-au.jpg"
+  },
+  {
+    "maSach": 1009,
+    "tenSach": "Tuổi Trẻ Đáng Giá Bao Nhiêu",
+    "donGia": 95000,
+    "soQuyen": 7,
+    "namXuatBan": 2020,
+    "tacGia": "Rosie Nguyễn",
+    "maNXB": 7,
+    "hinhAnh": "https://www.helloaline.com/wp-content/uploads/2021/07/tuoi-tre-dang-giao-bao-nhieu.png"
+  },
+  {
+    "maSach": 1010,
+    "tenSach": "Cà Phê Cùng Tony",
+    "donGia": 82000,
+    "soQuyen": 5,
+    "namXuatBan": 2019,
+    "tacGia": "Tony Buổi Sáng",
+    "maNXB": 7,
+    "hinhAnh": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1630546924i/23276781.jpg"
+  },
+  {
+    "maSach": 1011,
+    "tenSach": "Thằng Quỷ Nhỏ",
+    "donGia": 75000,
+    "soQuyen": 6,
+    "namXuatBan": 2015,
+    "tacGia": "Tuổi Hoa",
+    "maNXB": 1,
+    "hinhAnh": "https://www.nxbtre.com.vn/Images/Book/copy_21_NXBTreStoryFull_25472013_034711.jpg"
+  },
+  {
+    "maSach": 1012,
+    "tenSach": "Đồi Gió Hú – Bản Việt Hoá",
+    "donGia": 88000,
+    "soQuyen": 4,
+    "namXuatBan": 2022,
+    "tacGia": "Nhiều dịch giả Việt",
+    "maNXB": 3,
+    "hinhAnh": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786049952074.jpg"
+  },
+  {
+    "maSach": 1013,
+    "tenSach": "Số Đỏ",
+    "donGia": 72000,
+    "soQuyen": 7,
+    "namXuatBan": 2018,
+    "tacGia": "Vũ Trọng Phụng",
+    "maNXB": 12,
+    "hinhAnh": "https://ntthnue.edu.vn/uploads/Images/2013/10/198.jpg"
+  },
+  {
+    "maSach": 1014,
+    "tenSach": "Đất Rừng Phương Nam",
+    "donGia": 83000,
+    "soQuyen": 5,
+    "namXuatBan": 2016,
+    "tacGia": "Đoàn Giỏi",
+    "maNXB": 1,
+    "hinhAnh": "https://product.hstatic.net/200000343865/product/dat-rung-phuong-nam_bia-cung_tb-2024_a06a2dadce6d417b8025872bb7caad46_master.jpg"
+  },
+  {
+    "maSach": 1015,
+    "tenSach": "Cánh đồng bất tận",
+    "donGia": 78000,
+    "soQuyen": 3,
+    "namXuatBan": 2020,
+    "tacGia": "Nguyễn Ngọc Tư",
+    "maNXB": 2,
+    "hinhAnh": "https://upload.wikimedia.org/wikipedia/vi/0/01/Canh-dong-bat-tan.jpg"
+  },
+  {
+    "maSach": 1016,
+    "tenSach": "Ngọn đèn không tắt",
+    "donGia": 88000,
+    "soQuyen": 4,
+    "namXuatBan": 2021,
+    "tacGia": "Nguyễn Ngọc Tư",
+    "maNXB": 2,
+    "hinhAnh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRae08ugsNggGAWsItkXAW2dLY8HD61SDP2TWjCqdwSXn2Jo5TPHMzwncQtPobWcRgQTlWZEUi53coJV5t3UMfsYJMSxuZVgtW56uiD1QI&s=10"
+  },
+  {
+    "maSach": 1017,
+    "tenSach": "Nỗi Buồn Chiến Tranh",
+    "donGia": 92000,
+    "soQuyen": 6,
+    "namXuatBan": 2019,
+    "tacGia": "Bảo Ninh",
+    "maNXB": 12,
+    "hinhAnh": "https://upload.wikimedia.org/wikipedia/vi/1/11/Noi_buon_chien_tranh.jpg"
+  },
+  {
+    "maSach": 1018,
+    "tenSach": "Thời Xa Vắng",
+    "donGia": 77000,
+    "soQuyen": 4,
+    "namXuatBan": 2017,
+    "tacGia": "Lê Lựu",
+    "maNXB": 17,
+    "hinhAnh": "https://www.nxbtre.com.vn/Images/Book/NXBTreStoryFull_26202011_032058.jpg"
+  },
+  {
+    "maSach": 1019,
+    "tenSach": "Người Mẹ Cầm Súng",
+    "donGia": 70000,
+    "soQuyen": 5,
+    "namXuatBan": 2018,
+    "tacGia": "Nguyễn Thi",
+    "maNXB": 12,
+    "hinhAnh": "https://product.hstatic.net/200000343865/product/tu-sach-vang_nguoi-me-cam-sung_tb-2025_4c41aaac97a2447faa374cee5160904b_master.jpg"
+  },
+  {
+    "maSach": 1020,
+    "tenSach": "Hành Trình Về Phương Đông – Bản Gốc Việt",
+    "donGia": 90000,
+    "soQuyen": 5,
+    "namXuatBan": 2021,
+    "tacGia": "Nguyên Phong",
+    "maNXB": 5,
+    "hinhAnh": "https://dtv-ebook.com.vn/images/truyen-online/ebook-hanh-trinh-ve-phuong-dong-prc-pdf-epub.jpg"
+  },
+  {
+    "maSach": 1021,
+    "tenSach": "Dune",
+    "donGia": 130000,
+    "soQuyen": 5,
+    "namXuatBan": 2021,
+    "tacGia": "Frank Herbert",
+    "maNXB": 13,
+    "hinhAnh": "https://www.elleman.vn/wp-content/uploads/2021/11/16/206244/tieu-thuyet-Dune-elle-man-1.jpeg"
+  },
+  {
+    "maSach": 1022,
+    "tenSach": "1984",
+    "donGia": 90000,
+    "soQuyen": 4,
+    "namXuatBan": 2019,
+    "tacGia": "George Orwell",
+    "maNXB": 12,
+    "hinhAnh": "https://luatkhoa.com/wp-content/uploads/2025/02/Untitled-21_227-1.jpg"
+  },
+  {
+    "maSach": 1023,
+    "tenSach": "Đắc Nhân Tâm",
+    "donGia": 89000,
+    "soQuyen": 6,
+    "namXuatBan": 2020,
+    "tacGia": "Dale Carnegie",
+    "maNXB": 15,
+    "hinhAnh": "https://cdn1.fahasa.com/media/catalog/product/d/n/dntttttuntitled.jpg"
+  },
+  {
+    "maSach": 1024,
+    "tenSach": "Sherlock Holmes Toàn Tập",
+    "donGia": 150000,
+    "soQuyen": 3,
+    "namXuatBan": 2015,
+    "tacGia": "Arthur Conan Doyle",
+    "maNXB": 13,
+    "hinhAnh": "https://sachhoc.com/image/cache/catalog/Truyen/Sherlock-holmes-toan-tap-500x554.jpg"
+  },
+  {
+    "maSach": 1025,
+    "tenSach": "Tuổi Trẻ Đáng Giá Bao Nhiêu",
+    "donGia": 88000,
+    "soQuyen": 6,
+    "namXuatBan": 2018,
+    "tacGia": "Rosie Nguyễn",
+    "maNXB": 7,
+    "hinhAnh": "https://www.helloaline.com/wp-content/uploads/2021/07/tuoi-tre-dang-giao-bao-nhieu.png"
+  },
+  {
+    "maSach": 1026,
+    "tenSach": "Đi Tìm Lẽ Sống",
+    "donGia": 95000,
+    "soQuyen": 5,
+    "namXuatBan": 2020,
+    "tacGia": "Viktor E. Frankl",
+    "maNXB": 9,
+    "hinhAnh": "https://cdn1.fahasa.com/media/catalog/product/t/h/thumb-01113.jpg"
+  },
+  {
+    "maSach": 1027,
+    "tenSach": "Totto-Chan: Cô Bé Bên Cửa Sổ",
+    "donGia": 77000,
+    "soQuyen": 7,
+    "namXuatBan": 2019,
+    "tacGia": "Kuroyanagi Tetsuko",
+    "maNXB": 1,
+    "hinhAnh": "https://baokhanhhoa.vn/file/e7837c02857c8ca30185a8c39b582c03/052024/z5382052575312_b21c976817e14ec93c131e87dddc3dd7_20240523191338_20240524160319.jpg"
+  },
+  {
+    "maSach": 1028,
+    "tenSach": "Cà Phê Cùng Tony",
+    "donGia": 78000,
+    "soQuyen": 4,
+    "namXuatBan": 2015,
+    "tacGia": "Tony Buổi Sáng",
+    "maNXB": 7,
+    "hinhAnh": "https://library.hust.edu.vn/sites/default/files/%E1%BA%A3nh%20b%C3%ACa.%20C%C3%A0%20ph%C3%AA%20c%C3%B9ng%20Tony.jpg"
+  },
+  {
+    "maSach": 1029,
+    "tenSach": "The Subtle Art of Not Giving a F*ck",
+    "donGia": 115000,
+    "soQuyen": 6,
+    "namXuatBan": 2021,
+    "tacGia": "Mark Manson",
+    "maNXB": 15,
+    "hinhAnh": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_35976.jpg"
+  },
+  {
+    "maSach": 1030,
+    "tenSach": "Trộm lấy cơ may từ vận rủi",
+    "donGia": 105000,
+    "soQuyen": 5,
+    "namXuatBan": 2018,
+    "tacGia": "Ryan Holiday",
+    "maNXB": 14,
+    "hinhAnh": "https://www.netabooks.vn/Data/Sites/1/Product/4807/1.jpg"
+  },
+  {
+    "maSach": 1031,
+    "tenSach": "Một Đời Quản Trị",
+    "donGia": 120000,
+    "soQuyen": 4,
+    "namXuatBan": 2020,
+    "tacGia": "Trịnh Văn Quyết",
+    "maNXB": 11,
+    "hinhAnh": "https://ebookvie.com/wp-content/uploads/2023/12/mot-doi-quan-tri-phan-van-truong.jpg"
+  },
+  {
+    "maSach": 1032,
+    "tenSach": "The Psychology of Colour",
+    "donGia": 90000,
+    "soQuyen": 5,
+    "namXuatBan": 2018,
+    "tacGia": "Eva Heller",
+    "maNXB": 10,
+    "hinhAnh": "https://datas-website-wordpress-book-system.s3.ap-southeast-1.amazonaws.com/1617162977-the-psychology-book2.jpg"
+  },
+  {
+    "maSach": 1033,
+    "tenSach": "The Power of Habit",
+    "donGia": 110000,
+    "soQuyen": 6,
+    "namXuatBan": 2018,
+    "tacGia": "Charles Duhigg",
+    "maNXB": 4,
+    "hinhAnh": "https://emedicodiary.com/images/books/58a8874fed707da2d5268705e90cffbc.jpg"
+  },
+  {
+    "maSach": 1034,
+    "tenSach": "Deep Work",
+    "donGia": 115000,
+    "soQuyen": 4,
+    "namXuatBan": 2020,
+    "tacGia": "Cal Newport",
+    "maNXB": 5,
+    "hinhAnh": "https://bizweb.dktcdn.net/thumb/1024x1024/100/197/269/products/a-2711f783-0084-45cf-bf28-00b008da2cc3.jpg?v=1676444531003"
+  },
+  {
+    "maSach": 1035,
+    "tenSach": "Kẻ Trộm Sách",
+    "donGia": 95000,
+    "soQuyen": 3,
+    "namXuatBan": 2013,
+    "tacGia": "Markus Zusak",
+    "maNXB": 12,
+    "hinhAnh": "https://dtv-ebook.com.vn/images/truyen-online/ebook-ke-trom-sach-prc-pdf-epub.jpg"
+  },
+  {
+    "maSach": 1036,
+    "tenSach": "Homo Deus",
+    "donGia": 140000,
+    "soQuyen": 5,
+    "namXuatBan": 2022,
+    "tacGia": "Yuval Noah Harari",
+    "maNXB": 9,
+    "hinhAnh": "https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-homo-deus-luoc-su-tuong-lai.jpg"
+  },
+  {
+    "maSach": 1037,
+    "tenSach": "Bố Già",
+    "donGia": 130000,
+    "soQuyen": 4,
+    "namXuatBan": 2019,
+    "tacGia": "Mario Puzo",
+    "maNXB": 13,
+    "hinhAnh": "https://pos.nvncdn.com/fd5775-40602/ps/20240518_UMsSYzLaHY.jpeg?v=1716020104"
+  },
+  {
+    "maSach": 1038,
+    "tenSach": "Không Gia Đình",
+    "donGia": 75000,
+    "soQuyen": 6,
+    "namXuatBan": 2018,
+    "tacGia": "Hector Malot",
+    "maNXB": 1,
+    "hinhAnh": "https://product.hstatic.net/200000017360/product/z5768061127935_ffce9e0948bdc6f7a0260d5debfde0ac_5e83f9e368254a02b99ba5f0a25bebb8_master.jpg"
+  },
+  {
+    "maSach": 1039,
+    "tenSach": "Hành Tinh Của Một Kẻ Nghĩ Nhiều",
+    "donGia": 88000,
+    "soQuyen": 5,
+    "namXuatBan": 2021,
+    "tacGia": "HHB",
+    "maNXB": 2,
+    "hinhAnh": "https://static.sach.chat/sachchat-image/optimized-cover1703386573597-b_a_h_nh-tinh-c_a-m_t-k_-ngh_-nhi_u-tr_c-1-1.jpg"
+  },
+  {
+    "maSach": 1040,
+    "tenSach": "Điều Kỳ Diệu Của Tiệm Tạp Hóa NAMIYA",
+    "donGia": 105000,
+    "soQuyen": 6,
+    "namXuatBan": 2016,
+    "tacGia": "Higashino Keigo",
+    "maNXB": 3,
+    "hinhAnh": "https://upload.wikimedia.org/wikipedia/vi/e/eb/Dieu_ky_dieu_cua_tiem_tap_hoa_Namiya.jpg"
+  },
+  {
+    "maSach": 1041,
+    "tenSach": "Tư Duy Nhanh và Chậm",
+    "donGia": 140000,
+    "soQuyen": 5,
+    "namXuatBan": 2019,
+    "tacGia": "Daniel Kahneman",
+    "maNXB": 15,
+    "hinhAnh": "https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-tu-duy-nhanh-va-cham.jpg"
+  },
+  {
+    "maSach": 1042,
+    "tenSach": "Becoming",
+    "donGia": 160000,
+    "soQuyen": 6,
+    "namXuatBan": 2018,
+    "tacGia": "Michelle Obama",
+    "maNXB": 12,
+    "hinhAnh": "https://cdn1.fahasa.com/media/catalog/product/b/e/becoming_hardcover_1_2019_01_17_16_38_31.jpg"
+  },
+  {
+    "maSach": 1043,
+    "tenSach": "The Alchemist",
+    "donGia": 120000,
+    "soQuyen": 4,
+    "namXuatBan": 2015,
+    "tacGia": "Paulo Coelho",
+    "maNXB": 16,
+    "hinhAnh": "https://static.wixstatic.com/media/8cc233_da3154cf2cdd4e979a841903fb3cf770~mv2.jpg/v1/fill/w_1585,h_2400,al_c,q_90/The%20Alchemist%20cover.jpg"
+  },
+  {
+    "maSach": 1044,
+    "tenSach": "Sống Mòn",
+    "donGia": 90000,
+    "soQuyen": 5,
+    "namXuatBan": 2018,
+    "tacGia": "Nam Cao",
+    "maNXB": 17,
+    "hinhAnh": "https://vbookshop.com/wp-content/uploads/2022/06/song-mon.png"
+  },
+  {
+    "maSach": 1045,
+    "tenSach": "Mắt Biếc",
+    "donGia": 85000,
+    "soQuyen": 7,
+    "namXuatBan": 2019,
+    "tacGia": "Nguyễn Nhật Ánh",
+    "maNXB": 1,
+    "hinhAnh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHyGoISmf2glJ-EXVcbhaTffyHEKdTUisN-g&s"
+  },
+  {
+    "maSach": 1046,
+    "tenSach": "The Psychology of Money",
+    "donGia": 135000,
+    "soQuyen": 6,
+    "namXuatBan": 2021,
+    "tacGia": "Morgan Housel",
+    "maNXB": 9,
+    "hinhAnh": "https://bizweb.dktcdn.net/100/326/228/products/the-psychology-of-money-by-morgan-house-bookworm-hanoi.jpg?v=1636783131053"
+  },
+  {
+    "maSach": 1047,
+    "tenSach": "Hạt Giống Tâm Hồn 1",
+    "donGia": 78000,
+    "soQuyen": 5,
+    "namXuatBan": 2020,
+    "tacGia": "Nhiều Tác Giả",
+    "maNXB": 15,
+    "hinhAnh": "https://salt.tikicdn.com/ts/tmp/bf/6d/60/2b10abdd592ee3060267fb9f5cf78d9f.jpg"
+  },
+  {
+    "maSach": 1048,
+    "tenSach": "The Silent Patient",
+    "donGia": 125000,
+    "soQuyen": 4,
+    "namXuatBan": 2020,
+    "tacGia": "Alex Michaelides",
+    "maNXB": 13,
+    "hinhAnh": "https://m.media-amazon.com/images/I/81JJPDNlxSL.jpg"
+  },
+  {
+    "maSach": 1049,
+    "tenSach": "Dám Bị Ghét",
+    "donGia": 110000,
+    "soQuyen": 6,
+    "namXuatBan": 2021,
+    "tacGia": "Ichiro Kishimi - Fumitake Koga",
+    "maNXB": 7,
+    "hinhAnh": "https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-dam-bi-ghet.jpg"
+  },
+  {
+    "maSach": 1050,
+    "tenSach": "Sự Im Lặng Của Bầy Cừu",
+    "donGia": 98000,
+    "soQuyen": 3,
+    "namXuatBan": 2016,
+    "tacGia": "Thomas Harris",
+    "maNXB": 19,
+    "hinhAnh": "https://truyenaudiomoi.com/wp-content/uploads/2018/05/sach-su-im-lang-cua-bay-cuu-audio.gif"
+  }
+]
